@@ -167,3 +167,4 @@ def train_model(model, dataloaders, criterion, optimizer, scheduler, num_epochs,
     return model
 
 model = train_model(model, dataloaders, criterion, optimizer, scheduler, epochs, save_path)
+
