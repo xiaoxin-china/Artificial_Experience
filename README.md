@@ -17,10 +17,11 @@
         └── 📄 手写体识别.py
     ├── 📁 RNN
         └── 📁 LSTM
-    └── 📁 CNN
+    ├── 📁 CNN
         ├── 📄 图像分类任务--迁移训练两阶段_final.py
         └── 📁 dataloder制作
              └── 📄 整理数据集.ipynb
+    └── 📁 Transformer
  ```
  
  ##### data文件夹：单独存储各个模型所需的数据
